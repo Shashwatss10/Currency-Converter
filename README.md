@@ -1,13 +1,13 @@
-## Preview
-
-![Currency Converter](Screenshots/Currency-Converter.png)
+# Currency Converter
+    A simple and responsive Currency Converter web application built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
 🔗 https://shashwatss10.github.io/Currency-Converter/
 
-# Currency Converter
-    A simple and responsive Currency Converter web application built using HTML, CSS, and JavaScript.
+## Preview
+
+![Currency Converter](Screenshots/Currency-Converter.png)
 
 ## Highlights
     - Real-time currency conversion
