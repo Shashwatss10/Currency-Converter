@@ -48,7 +48,6 @@
     * Conversion history
     * Mobile-first optimization
 
-
 ## Author
     
 Shashwat Sharma
