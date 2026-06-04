@@ -4,7 +4,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![API](https://img.shields.io/badge/API-ExchangeRate-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-    A responsive Currency Converter web application built using HTML, CSS, and JavaScript. The application fetches real-time exchange rates and allows users to            convert currencies instantly with dynamic country flag updates.
+
+A responsive Currency Converter web application built using HTML, CSS, and JavaScript. The application fetches real-time exchange rates and allows users to            convert currencies instantly with dynamic country flag updates.
 
 ##  🚀 Live Demo
 
