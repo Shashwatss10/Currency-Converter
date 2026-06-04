@@ -3,7 +3,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![API](https://img.shields.io/badge/API-ExchangeRate-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![API](https://img.shields.io/badge/API-Flags-purple)
 
 A responsive Currency Converter web application built using HTML, CSS, and JavaScript. The application fetches real-time exchange rates and allows users to            convert currencies instantly with dynamic country flag updates.
 
