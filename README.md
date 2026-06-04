@@ -13,7 +13,7 @@ A responsive Currency Converter web application built using HTML, CSS, and JavaS
 
 ## 📸 Preview
 
-![Currency Converter]()
+![Currency Converter](Screenshots/Currency-Converter.png)
 
 ## ✨ Features
     - Real-time currency conversion
