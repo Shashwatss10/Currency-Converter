@@ -74,5 +74,7 @@ A responsive Currency Converter web application built using HTML, CSS, and JavaS
 ## Author
     
 Shashwat Sharma
+
 GitHub: https://github.com/Shashwatss10
+
 LinkedIn: https://www.linkedin.com/in/shashwat-sharma-139b5a30b
