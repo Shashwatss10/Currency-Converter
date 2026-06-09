@@ -76,6 +76,8 @@ convert currencies instantly with dynamic country flag updates.
 
 Shashwat Sharma
 
+4th Year B.Tech Computer Science & Engineering Student
+
 GitHub: https://github.com/Shashwatss10
 
 LinkedIn: https://www.linkedin.com/in/shashwat-sharma-139b5a30b
