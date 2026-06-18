@@ -70,7 +70,7 @@ convert currencies instantly with dynamic country flag updates.
 
 ## 📬 Feedback
     - Suggestions and feedback are always welcome.
-    - Feel free to open an issue or connect with me through GitHub.
+    - Feel free to open an issue or connect with me through GitHub.   
 
 ## Author
 
